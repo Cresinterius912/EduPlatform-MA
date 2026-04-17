@@ -22,7 +22,7 @@ export class Tab2Page {
   person2 = {
     name:"Jane",
     surname:"Doe",
-    age:123
+    age:48
   }
 
   constructor() {}
